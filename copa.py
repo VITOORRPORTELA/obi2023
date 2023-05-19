@@ -3,7 +3,7 @@ figCompradas = int(input("digite a quantidade de figurinhas compradas: "))
 figurinhasCompradas = set()
 
 for figurinhas in range(figCompradas):
-    fig = int(input())
+    fig = int(input("Digite as figurinhas: "))
     figurinhasCompradas.add(fig)
 
 faltam = totEspacos - len(figurinhasCompradas)
