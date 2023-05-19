@@ -8,6 +8,6 @@ irmaDoMeio = ordenar[1]
 irmaMaisNova = ordenar[0]
 irmaMaisVelha = ordenar[2]
 
-print("a irmã do meio é: {irmaDoMeio}")
-print("a irmã mais nova é: {irmaMaisNova}")
-print("a irmã mais velha é: {irmaMaisVelha}")
+print(f"a irmã do meio é: {irmaDoMeio}")
+print(f"a irmã mais nova é: {irmaMaisNova}")
+print(f"a irmã mais velha é: {irmaMaisVelha}")
